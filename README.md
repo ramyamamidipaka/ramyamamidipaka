@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on getting a new role as a Data Analyst/Data Scientist
-- 🌱 I’m currently learning on Experimental Design and NLP ideas
-- 👯 I’m looking to collaborate on Experimental design and statistics questions
-- 🤔 I’m looking for help with resume review and job search
+- 🔭 I’m currently working on getting started as a Data Engineer
+- 🌱 I’m currently learning on SQL Database Optimization
+- 👯 I’m looking to collaborate on SQL and Python Practise
+- 🤔 I’m looking for help with ETL, streaming and Batch Data
 - 📫 How to reach me: ramya.mamidipaka@gmail.com
 - 😄 Pronouns: (She)
-- ⚡ Fun fact: Everything is fun until you like it
+- ⚡ Fun fact: Everything is fun until you hate it
 
